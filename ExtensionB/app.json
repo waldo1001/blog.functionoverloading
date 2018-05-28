@@ -1,0 +1,29 @@
+{
+  "id": "facc5ab3-26a4-4a77-91f7-181412a11b8a",
+  "name": "ExtensionB",
+  "publisher": "waldo",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "1a715567-3013-4cc3-9989-5071dab7ff71",
+      "name": "ExtensionA",
+      "publisher": "waldo",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}

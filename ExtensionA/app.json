@@ -1,0 +1,22 @@
+{
+  "id": "1a715567-3013-4cc3-9989-5071dab7ff71",
+  "name": "ExtensionA",
+  "publisher": "waldo",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
